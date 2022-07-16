@@ -1,0 +1,9 @@
+Nice Netcat by PicoCtf
+AUTHOR: SYREAL
+
+
+ Just type the command in webshell 1. nc mercury.picoctf.net 7449
+ Output will be shown
+ Convert the no.  by ASCII codes
+ You will get the FLAG
+ 
